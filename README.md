@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Mo3tazElzuhery
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ..dsfdf.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m MoatazElzuhery
+- 🔭 I’m currently working on BackEyes
+- 🌱 I’m currently learning Machine Learning, AI
+- 💬 Ask me about Flutter
+- 👨‍💻 All of my projects are available at https://github.com/MoatazElzuhery
+- 📫 How to reach me moataz.elzuhery@gmail.com
 
 <!---
 Mo3tazElzuhery/Mo3tazElzuhery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
