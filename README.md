@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on BackEyes
 - 🌱 I’m currently learning Machine Learning, AI
 - 💬 Ask me about Flutter
-- 👨‍💻 All of my projects are available at https://github.com/MoatazElzuhery
+- 👨‍💻 All of my projects are available at https://github.com/Moataz-Elzuhery
 - 📫 How to reach me moataz.elzuhery@gmail.com
 
 <!---
